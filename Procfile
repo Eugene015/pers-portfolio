@@ -1,1 +1,1 @@
-server: npm run servstart
+server: npm run start
